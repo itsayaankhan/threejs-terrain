@@ -1,4 +1,4 @@
-# Experiment - Holographic Terrain
+# Holographic Terrain
 
 ## Links
 
